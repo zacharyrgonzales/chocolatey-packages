@@ -1,5 +1,3 @@
-﻿$ErrorActionPreference = 'Stop';
-$toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$filePath = "$toolsDir\argocd.exe"
+﻿$ErrorActionPreference = 'Stop'
 
-Remove-Item -Path $filePath
+Uninstall-ChocolateyEnvironmentVariable -VariableName "ARGOCD_AUTOPILOT_BINARY_NAME"

@@ -36,12 +36,12 @@ choco install argocd-autopilot
 # All of the commands need your git token with the --git-token flag,
 # or the GIT_TOKEN env variable:
 
-    $GIT_TOKEN=<YOUR_TOKEN>
+    $GIT_TOKEN=YOUR_TOKEN
 
 # The commands will also need your repo clone URL with the --repo flag,
 # or the GIT_REPO env variable:
 
-    $GIT_REPO=<REPO_URL>
+    $GIT_REPO=REPO_URL
 
 # 1. Run the bootstrap installation on your current kubernetes context.
 # This will install argo-cd as well as the application-set controller.
@@ -100,8 +100,8 @@ Click here to join: https://slack.cncf.io/</description>
     <copyright>Copyright (c) 2021 Argo Project Labs</copyright>
     <tags>argocd-autopilot argo-cd argo cd auto pilot cli continuous delivery kubernetes gitops cross-platform</tags>
     <projectSourceUrl>https://github.com/argoproj-labs/argocd-autopilot</projectSourceUrl>
-    <packageSourceUrl>https://github.com/jtcmedia/chocolatey-packages/tree/master/argocd-cli</packageSourceUrl>
-    <docsUrl>https://argo-cd.readthedocs.io</docsUrl>
-    <bugTrackerUrl>https://github.com/argoproj/argo-cd/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/zacharyrgonzales/chocolatey-packages/tree/main/argocd-autopilot</packageSourceUrl>
+    <docsUrl>https://argocd-autopilot.readthedocs.io/en/stable/</docsUrl>
+    <bugTrackerUrl>https://github.com/argoproj-labs/argocd-autopilot/issues</bugTrackerUrl>
   </metadata>
 </package>

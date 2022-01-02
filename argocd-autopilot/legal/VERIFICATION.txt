@@ -1,0 +1,17 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+1.  Download the installer:
+
+    x64: https://github.com/argoproj-labs/argocd-autopilot/releases/download/v0.2.28/argocd-autopilot-windows-amd64.tar.gz
+
+2.  You can use one of the following methods to obtain the checksum: 
+    - Use powershell function 'Get-FileHash'
+    - Use Chocolatey utility 'checksum.exe'
+    - Using AU:
+        Get-RemoteChecksum https://github.com/argoproj-labs/argocd-autopilot/releases/download/v0.2.28/argocd-autopilot-windows-amd64.tar.gz
+
+3.  Compare to Checksum:
+
+    checksum64: 61D27AE46A8482C7AE08AC94C3B5F889C3DA49CBACB79925E90974B17ECCDE9B
