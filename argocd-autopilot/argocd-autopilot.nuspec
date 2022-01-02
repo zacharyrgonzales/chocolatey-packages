@@ -7,7 +7,7 @@
     <authors>Argo Project Labs</authors>
     <owners>zacharyrgonzales</owners>
     <licenseUrl>https://github.com/argoproj-labs/argocd-autopilot/blob/main/LICENSE</licenseUrl>
-    <projectUrl>https://argoproj.github.io/</projectUrl>
+    <projectUrl>https://github.com/argoproj-labs/argocd-autopilot</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/argoproj-labs/argocd-autopilot/main/docs/assets/argo_autopilot.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>## Introduction
