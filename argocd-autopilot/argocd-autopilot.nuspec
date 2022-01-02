@@ -78,7 +78,7 @@ An application can be added to a project from a public git repo + path, or from 
 Join us in channel #argo-autopilot in CNCF slack workspace.
 
 Click here to join: https://slack.cncf.io/</description>
-    <summary>The Argo-CD Autopilot is a tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.</summary>
+    <summary>A tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.</summary>
     <releaseNotes>https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.2.28</releaseNotes>
     <copyright>Copyright (c) 2021 Argo Project Labs</copyright>
     <tags>argocd-autopilot argo-cd argo cd auto pilot cli continuous delivery kubernetes gitops cross-platform</tags>
