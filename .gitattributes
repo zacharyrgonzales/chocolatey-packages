@@ -1,0 +1,1 @@
+argocd-autopilot/tools/argocd-autopilot.exe filter=lfs diff=lfs merge=lfs -text
